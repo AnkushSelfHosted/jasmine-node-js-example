@@ -12,4 +12,5 @@ preRun:
 postRun:
   command: 
     - echo 'Done Testing'
-    #test
+    #test2
+
