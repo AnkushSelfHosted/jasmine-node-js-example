@@ -13,5 +13,6 @@ postRun:
   command: 
     - echo 'Done Testing'
     #test4
-
+parallelism: 4
+splitmode: file
 
