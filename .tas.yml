@@ -12,5 +12,4 @@ preRun:
 postRun:
   command: 
     - echo 'Done Testing'
-    #test6mdf
-
+    #test6mdfdf
