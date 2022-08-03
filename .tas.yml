@@ -12,5 +12,5 @@ preRun:
 postRun:
   command: 
     - echo 'Done Testing'
-parallelism: 9
+parallelism: 10
     #testddsasadsdsm
